@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FFD0&center=true&vCenter=true&width=600&lines=obcdnico;Code.+Create.+Inspire." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FFD0&center=true&vCenter=true&width=600&lines=Floraxio;Code.+Create.+Inspire." alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-Hi, I’m **obcdnico** — a code artisan, tech explorer, and lifelong learner.  
+Hi, I’m **Floraxio** — a code artisan, tech explorer, and lifelong learner.  
 I turn ☕ into code, bugs into features, and ideas into reality.
 
 ---
@@ -45,20 +45,20 @@ I turn ☕ into code, bugs into features, and ideas into reality.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obcdnico&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obcdnico&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Floraxio&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floraxio&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obcdnico&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Floraxio&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obcdnico&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Floraxio&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/obcdnico?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=7e5bef&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Floraxio?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=7e5bef&style=for-the-badge"/>
 </p>
 
 ---
